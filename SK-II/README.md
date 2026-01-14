@@ -37,15 +37,43 @@ In order to evaluate and reach the goal, I focused on the following key metrics:
   * Across the month, November generated RM1.6M revenue from vouchers, highest among all months.
   * Surprisingly the month of April had the highest ROI with a record of 19.14x
   * Intrestingly, it was almost breakeven for the month of May with an ROI of 1.06x
+  * 89% of overall revenue comes from vouchers (_RM8.9M_)
     
 **Discount Cost**
- * 
- * 
+ * May voucher had the highest discount cost summing up to RM887k (_94% of Redeemed Revenue_)
+ * RM1.47M was the total discount cost for year 2025 ( _16.48% of the total redeemed revenue_)
+ * In average RM122k is being discounted from all items each month
  
 **Collected and Reedemed Rate**
-  * 
-    
-    
+  * Interestingly, even May generated the lowest ROI it has low redeemed rate (_4.14%_).
+  * January has the lowest issued voucher
+  * In average 26.5% of issued vouchers are being collected and only 5.29% are used or redeemed.
+
+## Recommendations
+---
+ * **Maximize contents and promotion campaigns for every special Lazada Events**: such as Epic Birthday Sale (March )and double date campaigns (9.9-12.12). These type of events significantly boost sales and visitor value as seen on month of March (Epic Birthday Sale) and November (11.11)
+ * **Simplify the checkout process and eliminate hidden charges**: Review the checkout funnel to ensure full pricing transparency. Unexpected fees or a complex checkout process may discourage purchase completion and contribute to drop-offs at the final stage.
+ * **Improving the landing pages (Product and Home)**: The number of visitors indicates that the product or page is getting noticed but with low conversion rate, indicates insufficient product information, low reviews or pricing issue. Enhancing content quality, social proof (high reviews) and optimized pricing on landing pages
+ * **Personalized the voucher offerings**: Categorize the customers, dividing them into different groups based on their demographics, behaviors, and other factors to offer the right vouchers to the right people.
+ * **Follow up notifications**: via email or platform messageto remind the customer the time they have to use the voucher. Redeem rate is below average as some customer often forget to use their voucher. Reminding customer will help to maximize the voucher
+ * **Balance out the voucher discount cost**. The issued voucher should just be enough to atleast reach 2x ROI from the discounted cost. Rebalance the issued voucher especially for the month of May, where it only returns a 1.06x profit.
+
+## Dashboard
+---
+The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/dwight.gonzales/viz/SK-IILazadaPerformance2025/Story1?publish=yes). This dashboard enables users to filter by month\ and focuses on trends and values in revenue, customer journey and vouchers metrics
+
+<img width="823" height="621" alt="image" src="https://github.com/user-attachments/assets/5cc6423a-0755-4931-90a6-53398d835ff1" />
+
+## Presentation Sample
+---
+The presentation created for executive team walks through the insights and recommendations above and can be found [here](https://www.canva.com/design/DAG-K-UoLf0/HuyIdYkzfdMrvyT9MwB8XA/edit?utm_content=DAG-K-UoLf0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton). Some extracts are presented below for easy viewing.
+
+<img width="601" height="337" alt="image" src="https://github.com/user-attachments/assets/916fcc69-8e41-4dff-b634-1bd276f899e9" />
+<img width="599" height="326" alt="image" src="https://github.com/user-attachments/assets/654519d7-1bb5-4296-8677-02aed2ece161" />
+<img width="604" height="309" alt="image" src="https://github.com/user-attachments/assets/bb5f1e00-da44-4157-9ffc-82b89dc7c613" />
+
+
+
 
 
   
