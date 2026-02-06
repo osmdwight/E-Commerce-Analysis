@@ -1,6 +1,6 @@
 ## Project Overview
 ---
-### The goal of this project is to investigate the revenue stream, customer funnel (conversion) and promotion vouchers at SK-II Lazada in order to surface recommendations on marketing strategy for 2026 campaign. 
+### The goal of this project is to investigate the revenue stream, customer funnel (conversion) and promotion vouchers at one beauty brand in Lazada in order to surface recommendations on marketing strategy for 2026 campaign. 
 ---
 **a premium Japanese skincare brand, owned by Procter & Gamble (P&G), famous globally for its luxurious products**. In 2025,  they launched multiple set of products and a new set of vouchers for their customers can  use.
 
